@@ -1,9 +1,10 @@
 # 👋 Who am I ?
-My name is Zakaria. I am a computer science student 💻 based in Morocco 🇲🇦. I love having fun in everything i do.<br>
+My name is Zakaria. I am a computer science student 💻 based in Morocco 🇲🇦. Passionnate about problem solving 🔍💡, competitive programming 
+🏆, and learning the latest technologies 🚀. I love having fun in everything i do.<br>
 (I also make music 😁)
 <br><br>
 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 # 📊 GitHub stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zakariaCHOUKRI&show_icons=true&theme=tokyonight">
