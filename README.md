@@ -1,17 +1,46 @@
-# 👋 Who am I ?
-My name is Zakaria. I am a computer science student 💻 based in Morocco 🇲🇦. Passionnate about problem solving 🔍💡, competitive programming 
-🏆, and learning the latest technologies 🚀. I love having fun in everything i do.<br>
-(I also make music 😁)
-<br><br>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-# 📊 GitHub stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=zakariaCHOUKRI&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaCHOUKRI&layout=compact&theme=tokyonight">
-<br><br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=2500&lines=Hey+There!+👋;+I'm+Zakaria+Choukri!;" />
+</h1>
 
 
+<h3 align="center">My name is Zakaria. I am a computer science student 💻 from Morocco 🇲🇦</h3>
+<p>
 
-# 💻 Technologies:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+ 
+ Passionnate about **problem solving** 🔍💡, **competitive programming** 
+🏆, and learning the latest **technologies** 🚀
+ 
+ I love having **fun** in everything i do 😁. And I also make **music** 🎶
+
+💬 Ask me about **anything [here](https://github.com/zakariaCHOUKRI/zakariaCHOUKRI/issues)**
+
+<div align="center"> 
+  <a href="mailto:zc.zakariachoukri23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/zakaria-choukri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+<hr/>
+<br/>
+
+
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,c,html,css,javascript,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=mysql,php,firebase,octave,latex,github,git,vscode,linux,bash,qt" />
+    <br>
+</div>
+<hr/>
+<br/>
+
+<h1 align="center">📊 GitHub Stats 📊</h1>
+<br>
+<div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaCHOUKRI&show_icons=true&theme=tokyonight">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaCHOUKRI&layout=compact&theme=tokyonight">
+  <br/>
+</div>
